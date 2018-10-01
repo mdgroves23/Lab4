@@ -1,0 +1,17 @@
+.header_format
+{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.item_format
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.input_box
+{
+    width: 70px;
+}
+.input_userInfo
+{
+    width: 170px;
+}
